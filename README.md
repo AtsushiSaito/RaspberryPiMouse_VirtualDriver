@@ -1,4 +1,4 @@
 # RaspberryPiMouse_VirtualDriver
 
-このデバイスドライバは、
-RaspberryPi Mouse Simulator向けに開発された仮想のデバイスドライバである。
+This driver is virtual device driver for RaspberryPi Mouse Simulator.
+
