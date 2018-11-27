@@ -6,6 +6,7 @@
 #include <linux/cdev.h>
 #include <linux/sched.h>
 #include <linux/device.h>
+#include <linux/uaccess.h>
 #include <asm/current.h>
 #include <asm/uaccess.h>
 #include <linux/slab.h>
